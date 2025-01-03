@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+
+</script>
+
+<div class="content-box-loading">
+    <p>Please wait while we log you in!</p>
+</div>
